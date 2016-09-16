@@ -37,15 +37,15 @@ Comments:
 * started some lofty extensions
 
 Evaluation Scores:
-### 1. Functional Expectations
-
+## 1. Functional Expectations
 * 3: Application fulfills all base expectations
 
 
-### 2. REPL Interface * 3: Application's REPL is clear and pleasant to use
+## 2. REPL Interface 
+* 3: Application's REPL is clear and pleasant to use
 
 
-### 3. Test-Driven Development * 3: Application is well tested but does not balance isolation and integration tests
+## 3. Test-Driven Development * 3: Application is well tested but does not balance isolation and integration tests
 
 
 ### 4. Breaking Logic into Components

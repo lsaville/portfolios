@@ -26,7 +26,7 @@ I came into the module seeking to learn a ton about ruby, building a strong base
 #### (Project Name)
 
 * [GitHub URL](https://github.com/sabrosaurus/event-reporter)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
 (description)
 

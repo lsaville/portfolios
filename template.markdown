@@ -37,7 +37,7 @@ Comments:
 * started some lofty extensions
 
 Evaluation Scores:
-####1. Functional Expectations
+#####1. Functional Expectations
 * 3: Application fulfills all base expectations
 
 

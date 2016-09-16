@@ -25,7 +25,7 @@ I came into the module seeking to learn a ton about ruby, building a strong base
 
 #### (Project Name)
 
-* [GitHub URL](https://github.com/sabrosaurus/event-reporter/tree/master)
+* [GitHub URL](https://github.com/sabrosaurus/event-reporter)
 * [Original Assignment]()
 
 (description)

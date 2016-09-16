@@ -23,7 +23,7 @@ I came into the module seeking to learn a ton about ruby, building a strong base
 
 (Intro)
 
-#### (Project Name)
+#### (Event Reporter)
 
 * [GitHub URL](https://github.com/sabrosaurus/event-reporter)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
@@ -40,10 +40,10 @@ I came into the module seeking to learn a ton about ruby, building a strong base
 
 (Intro)
 
-#### (Project Name)
+#### (Enigma)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bradgreen3/enigma)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
 (description)
 

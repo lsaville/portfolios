@@ -147,8 +147,12 @@ Enigma is a command line application that models its function off the original E
 
 ### Gear Up
 #### (Session Name)
-
+   
 * [GitHub URL]()
+
+https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown
+https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown
+https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown
 
 (takeaways from session)
 learning mindset Kethy Sierra p.35
